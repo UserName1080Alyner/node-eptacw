@@ -3,5 +3,9 @@
   "version": "0.0.0",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-wget": "^0.4.3",
+    "wge": "^0.0.5"
   }
 }
